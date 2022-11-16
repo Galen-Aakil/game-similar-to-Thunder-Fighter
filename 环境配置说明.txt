@@ -1,0 +1,17 @@
+运行环境Visual Studio 2017 + EasyX
+
+配置：活动(Debug)
+
+平台：活动(Win32)
+
+目标平台                     Windows10
+
+Windows SDK 版本    10.0.17763.0
+
+配置类型                     应用程序(.exe)
+
+MFC 的使用               使用标准 Windows 库
+
+字符集                         使用 Unicode 字符集
+
+公共语言运行时支持  无
